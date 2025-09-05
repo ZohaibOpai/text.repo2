@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zohaib  
 
 🌍 From Pakistan  
-📚 Class 8 (Matric) Student  
+📚 Class 10 (Matric) Student  
 🕌 Hafiz-e-Quran  
 💻 Web Development Student at SMIT  
 
