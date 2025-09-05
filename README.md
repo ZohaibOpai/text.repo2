@@ -32,9 +32,10 @@
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [LinkedIn](#) *(add your link here)*  
-- 🌍 [Netlify Projects](#) *(add your deployed projects here)*  
-
----
-
+- 💼 [LinkedIn](#) *(www.linkedin.com/in/zohaib-opai-488226338)* 
+- 🌍 [Netlify Projects](#) *(1.https://superb-pika-5b0dbf.netlify.app/)* 
+---                         *(2.https://roaring-rabanadas-1faec0.netlify.app/)*
+                            *(3.https://candid-meerkat-0c8cdf.netlify.app/)*
+                            *(4.https://frolicking-swan-f20a80.netlify.app/)*
+  
 ⭐️ *“Learning never stops, every day is a step forward.”*
